@@ -1,16 +1,88 @@
-## Hi there 👋
+<div align="left">
 
-<!--
-**Laouge/Laouge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=900&pause=1500&color=66FF66&width=500&lines=Hi+I'm+Boubacar+Laougé;Cybersecurity+Engineer)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 **Networking, Systems & Cybersecurity Graduate**
+
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-red)
+![Networking](https://img.shields.io/badge/Networking-blue)
+![Python](https://img.shields.io/badge/Python-yellow?logo=python)
+
+</div>
+
+---
+
+## 🔍 Skills & Expertise
+
+### 🛡️ Cybersecurity
+- Network & web application penetration testing
+- Vulnerability assessment & basic exploitation
+- Monitoring, logging & incident detection
+- Security hardening & best practices
+
+### 🌐 Networking & Systems
+- TCP/IP, DNS, DHCP, VPN
+- Linux & Windows administration
+- Firewalls & access control
+
+### 🧪 Tools & Technologies
+- **Security**: Nmap, Burp Suite, Metasploit, Wireshark  
+- **Systems**: Linux, Windows Server  
+- **Monitoring**: ELK Stack (basics)  
+- **Scripting**: Python, Bash  
+
+---
+
+## 🧪 Labs & Projects
+- Network scanning & service enumeration using **Nmap**
+- Web application security testing (OWASP Top 10)
+- Log analysis & basic SIEM usage
+- Security labs and simulated environments
+
+---
+
+## 🏴‍☠️ CTF & Cybersecurity Training
+
+![TryHackMe](https://img.shields.io/badge/TryHackMe-red)
+![Hack The Box](https://img.shields.io/badge/Hack_The_Box-green)
+![Root-Me](https://img.shields.io/badge/Root--Me-black)
+![picoCTF](https://img.shields.io/badge/picoCTF-blue)
+
+I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges and online platforms.
+
+### 🔹 Platforms
+- **TryHackMe** – Guided labs (networking, Linux, SOC, pentesting)  
+- **Hack The Box** – Realistic penetration testing labs  
+- **Root-Me** – Web security, cryptography, reverse engineering  
+- **picoCTF** – CTF fundamentals & competitions  
+
+---
+
+## 📄 Resume
+➡️ [Show resume](./Boubacar_Laougé_CV.pdf)  
+⬇️ [Download](./Boubacar_Laougé_CV.pdf)
+
+## 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&bg_color=00000000&title_color=00ff00&icon_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&bg_color=00000000&title_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+    </td>
+  </tr>
+</table>
+
+
+---
+
+## 📫 Contact
+- 💼 LinkedIn: https://linkedin.com/in/TON_PROFIL
+- 📧 Email: cyberactabdul@gmail.com
+
+---
