@@ -11,8 +11,6 @@
 ![Networking](https://img.shields.io/badge/Networking-blue)
 ![Python](https://img.shields.io/badge/Python-yellow?logo=python)
 
-</div>
-
 ---
 
 ## 🔍 Skills & Expertise
@@ -65,25 +63,25 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 ➡️ [Show resume](./Boubacar_Laougé_CV.pdf)  
 ⬇️ [Download](./Boubacar_Laougé_CV.pdf)
 
+---
+
 ## 📊 GitHub Stats
 
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&bg_color=00000000&title_color=00ff00&icon_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+      <!-- GitHub Stats avec tous les commits et privés -->
+      <img src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000&title_color=00ff00&icon_color=00ff00&text_color=ff0000&border_color=00000000" width="430" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&bg_color=00000000&title_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+      <!-- Top Languages -->
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&bg_color=00000000&title_color=00ff00&text_color=ff0000&icon_color=00ff00&border_color=00000000" width="430" alt="Top Languages"/>
     </td>
   </tr>
 </table>
-
-
 
 ---
 
 ## 📫 Contact
 - 💼 LinkedIn: https://linkedin.com/in/TON_PROFIL
 - 📧 Email: cyberactabdul@gmail.com
-
----
