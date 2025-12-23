@@ -70,10 +70,13 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 <table>
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Loauge&show_icons=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
+     <img src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&bg_color=00000000&title_color=00ff00&icon_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&bg_color=00000000&title_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
+
     
-        </td>
+    </td>
   </tr>
 </table>
 
