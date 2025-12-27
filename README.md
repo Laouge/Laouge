@@ -57,25 +57,27 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 - **Root-Me** – Web security, cryptography, reverse engineering  
 - **picoCTF** – CTF fundamentals & competitions  
 
-## 📄 Resume
-➡️ [Show resume](./Boubacar_Laougé_CV.pdf)  
-⬇️ [Download](./Boubacar_Laougé_CV.pdf)
-
-## 📊 GitHub Stats
-
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&bg_color=00000000&title_color=00ff00&icon_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&bg_color=00000000&title_color=00ff00&text_color=ff0000&border_color=00000000" width="430" />
-    </td>
-  </tr>
-</table>
 
 
----
+<details>
+<summary><font color="#66FF66"><u>Show resume</u></font></summary>
+
+![Mon CV](https://github.com/Laouge/Laouge/Boubacar_Laougé.pdf)
+
+</details>
+
+<p style="color: #66FF66;">
+  <a href="https://github.com/Laouge/Laouge/Bouabacar_Laougé.pdf">
+    <font color="#FF6666">⬇️ Download</font>
+  </a
+</p>
+
+![](https://komarev.com/ghpvc/?username=Laouge&color=green)
+
+<div>
+<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
+</div>
 
 ## 📫 Contact
 - 💼 LinkedIn: https://linkedin.com/in/TON_PROFIL
