@@ -87,7 +87,7 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 
   <p align="left">
     <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
-      Download English cv (PDF)
+      Download English CV (PDF)
     </a>
   </p>
 
@@ -101,5 +101,5 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 </div>
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/TON_PROFIL
+- 💼 LinkedIn: https://www.linkedin.com/in/boubacar-laouge/
 - 📧 Email: cyberactabdul@gmail.com
