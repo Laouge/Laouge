@@ -64,7 +64,7 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 </details>
 
 <p style="color: #66FF66;">
-  <a href="href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
+  <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
     <font color="#FF6666">⬇️ Download</font>
   </a>
 </p>
