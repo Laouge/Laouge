@@ -74,11 +74,27 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 
 </details>
 
-<p style="color: #66FF66;">
-  <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
-    <font color="#FF6666">⬇️ Download</font>
-  </a>
-</p>
+<details>
+  <summary><font color="#FF6666"><u>⬇️ Download</u></font></summary>
+
+  <br>
+
+  <p align="left">
+    🇬🇧 
+    <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar-Laouge.pdf">
+      Download French CV (PDF)
+    </a>
+  </p>
+
+  <p align="left">
+    🇫🇷 
+    <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laougé.pdf">
+      Download English cv (PDF)
+    </a>
+  </p>
+
+</details>
+
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
 <div>
