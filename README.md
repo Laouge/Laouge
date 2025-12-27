@@ -57,9 +57,21 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 - **Root-Me** – Web security, cryptography, reverse engineering  
 - **picoCTF** – CTF fundamentals & competitions
 <details>
-<summary><font color="#66FF66"><u>Show resume</u></font></summary>
+  <summary><font color="#66FF66"><u>Show resume</u></font></summary>
 
-![Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar-Laouge.jpg)
+  <br>
+
+  <p><strong>🇬🇧 English Version</strong></p>
+  <p align="left">
+  [Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar-Laougé.jpg)
+  </p>
+
+  <br>
+
+  <p><strong>🇫🇷 French Version</strong></p>
+  <p align="left">
+  [Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar-Laouge.jpg)
+  </p>
 
 </details>
 
