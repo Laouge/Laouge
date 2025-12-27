@@ -69,6 +69,7 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
     <font color="#FF6666">⬇️ Download CV</font>
   </a>
 </p>
+
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
 <div>
