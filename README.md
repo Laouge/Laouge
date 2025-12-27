@@ -57,18 +57,56 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 - **Root-Me** – Web security, cryptography, reverse engineering  
 - **picoCTF** – CTF fundamentals & competitions
 <details>
-<summary><font color="#66FF66"><u>Show resume</u></font></summary>
+  <summary>
+    <strong><font color="#66FF66">📄 Show Resume</font></strong>
+  </summary>
 
-![Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laoug%C3%A9.jpg)
+  <br>
 
+  <!-- French Version -->
+  <details>
+    <summary><strong>🇫🇷 French Version</strong></summary>
+
+    <p align="center">
+      <img src="(https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laouge.jpg)" width="700" alt="CV Français">
+    </p>
+  </details>
+
+  <br>
+
+  <!-- English Version -->
+  <details>
+    <summary><strong>🇬🇧 English Version</strong></summary>
+
+    <p align="center">
+      <img src="(https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laoug%C3%A9.jpg)" width="700" alt="English Resume">
+    </p>
+  </details>
 </details>
 <br>
-
-<p>
   <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf" download>
-    <font color="#FF6666">⬇️ Download CV</font>
-  </a>
-</p>
+
+<details>
+  <summary>
+    <strong><font color="#FF6666">⬇️ Download Resume</font></strong>
+  </summary>
+
+  <br>
+
+  <p align="center">
+    🇫🇷 <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf" download>
+      Download French CV (PDF)
+    </a>
+  </p>
+
+  <p align="center">
+    EN <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laouge.pdf" download>
+      Download English CV (PDF)
+    </a>
+  </p>
+
+</details>
+
 
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
