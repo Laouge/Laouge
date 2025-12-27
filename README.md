@@ -80,13 +80,13 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
   <br>
 
   <p align="left">
-    <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/blob/Boubacar-Laouge.pdf">
+    <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar-Laouge.pdf">
       Download French CV (PDF)
     </a>
   </p>
 
   <p align="left">
-    <a href="https://raw.githubusercontent.com/Laouge/Laouge/blob/main/Boubacar_Laougé.pdf">
+    <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
       Download English cv (PDF)
     </a>
   </p>
