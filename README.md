@@ -55,23 +55,28 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 - **TryHackMe** – Guided labs (networking, Linux, SOC, pentesting)  
 - **Hack The Box** – Realistic penetration testing labs  
 - **Root-Me** – Web security, cryptography, reverse engineering  
-- **picoCTF** – CTF fundamentals & competitions  
-
-
+- **picoCTF** – CTF fundamentals & competitions
 
 <details>
-<summary><font color="#66FF66"><u>Show resume</u></font></summary>
+  <summary>
+    <font color="#66FF66"><u>📄 Show resume</u></font>
+  </summary>
 
-![Mon CV](https://github.com/Laouge/Laouge/blob/main/Boubacar_Laougé.pdf)
+  <br>
+
+  👉 <a href="https://github.com/Laouge/Laouge/blob/main/Boubacar_Laoug%C3%A9.pdf" target="_blank">
+    <font color="#66FF66">Click here to view my CV</font>
+  </a>
 
 </details>
 
-<p style="color: #66FF66;">
-  <a href="https://github.com/Laouge/Laouge/blob/main/Bouabacar_Laougé.pdf">
-    <font color="#FF6666">⬇️ Download</font>
-  </a
-</p>
+<br>
 
+<p>
+  <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf" download>
+    <font color="#FF6666">⬇️ Download CV</font>
+  </a>
+</p>
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
 <div>
