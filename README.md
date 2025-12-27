@@ -62,48 +62,12 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 ![Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar-Laouge.jpg)
 
 </details>
-  <summary><font color="#66FF66"><u>Show resume</u></font></summary>
-  
-  ![Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laouge.jpg)
 
-</details>
-
-  <br>
-
-  <!-- English Version -->
-  <details>
-    <summary><strong>🇬🇧 English Version</strong></summary>
-
-    <p align="center">
-      <img src="(https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laoug%C3%A9.jpg)" width="700" alt="English Resume">
-    </p>
-  </details>
-</details>
-<br>
-  <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf" download>
-
-<details>
-  <summary>
-    <strong><font color="#FF6666">⬇️ Download Resume</font></strong>
-  </summary>
-
-  <br>
-
-  <p align="center">
-    🇫🇷 <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf" download>
-      Download French CV (PDF)
-    </a>
-  </p>
-
-  <p align="center">
-    EN <a href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laouge.pdf" download>
-      Download English CV (PDF)
-    </a>
-  </p>
-
-</details>
-
-
+<p style="color: #66FF66;">
+  <a href="href="https://raw.githubusercontent.com/Laouge/Laouge/main/Boubacar_Laoug%C3%A9.pdf">
+    <font color="#FF6666">⬇️ Download</font>
+  </a>
+</p>
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
 <div>
