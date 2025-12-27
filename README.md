@@ -62,15 +62,13 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
   </summary>
 
   <br>
-
   <!-- French Version -->
-  <details>
-    <summary><strong>🇫🇷 French Version</strong></summary>
+<details>
+  <summary><font color="#66FF66"><u>Show resume</u></font></summary>
+  
+  ![Mon CV](https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laouge.jpg)
 
-    <p align="center">
-      <img src="(https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laouge.jpg)" width="700" alt="CV Français">
-    </p>
-  </details>
+</details>
 
   <br>
 
