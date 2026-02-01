@@ -96,10 +96,13 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
 <div>
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+<img 
+  height="200em" 
+  src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&count_private=true&include_all_commits=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666" 
+  alt="GitHub Stats"/>
 <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
 </div>
 
-## 📫 Contact
-- 💼 LinkedIn: https://www.linkedin.com/in/boubacar-laouge/
-- 📧 Email: cyberactabdul@gmail.com
+## Contact
+   LinkedIn: https://www.linkedin.com/in/boubacar-laouge/
+   Email: boubacarlaougeabdoulmoumouni@gmail.com
