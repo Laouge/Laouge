@@ -95,13 +95,20 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
 
 ![](https://komarev.com/ghpvc/?username=Laouge&color=green)
 
+
 <div>
-<img 
-  height="200em" 
-  src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&count_private=true&include_all_commits=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666" 
-  alt="GitHub Stats"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" alt="Top Languages"/>
+  <!-- Top languages (déjà fonctionnel) -->
+  <img height="200em" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laouge&layout=compact&langs_count=7&border_color=000000&bg_color=00000000&title_color=66FF66&text_color=FF6666&icon_color=66FF66" 
+       alt="Top Languages"/>
+
+  <!-- GitHub Stats avec commits totaux -->
+  <img height="200em" 
+       src="https://github-readme-stats.vercel.app/api?username=Laouge&show_icons=true&include_all_commits=true&border_color=000000&bg_color=00000000&title_color=66FF66&icon_color=66FF66&text_color=FF6666" 
+       alt="GitHub Stats"/>
 </div>
+
+
 
 ## Contact
    LinkedIn: https://www.linkedin.com/in/boubacar-laouge/
