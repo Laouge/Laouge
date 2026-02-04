@@ -60,7 +60,7 @@ I regularly practice cybersecurity through **Capture The Flag (CTF)** challenges
   <summary><font color="#66FF66"><u>Show resume</u></font></summary>
   <br>
   <p align="left">
-      <a href="https://github.com/Laouge/Laouge/blob/main/assets/Boubacar_Laoug%C3%A9.jpg" target="_blank">
+      <a href="https://github.com/Laouge/Laouge/blob/main/assets/Boubacar-Laouge.jpg" target="_blank">
         <strong>English Version</strong>
       </a>
   </p>
